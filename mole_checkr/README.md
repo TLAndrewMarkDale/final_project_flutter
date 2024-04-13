@@ -17,7 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 [11:04 PM] Ali Istanbullu
 Skin Lesion Classifier App
+
 Overview
+
 The Skin Lesion Classifier App is a mobile application designed to assist non-specialists and healthcare professionals in the preliminary assessment of skin lesions. Using a machine learning model that boasts a 93% accuracy rate on test data, this app aims to provide quick, reliable analyses of skin lesions, potentially speeding up the diagnosis process and facilitating early treatment interventions.
 
 Features
