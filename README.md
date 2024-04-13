@@ -26,10 +26,12 @@ Usage
 - Submit the image for analysis. The result will be displayed within couple seconds. Review the classification and confidence level provided. Consult a healthcare professional for further evaluation if necessary.
 
 
-Authors
+Authors:
+
 Andrew Mark Dale - 100491442
 
-Team memebers: 
+Team members: 
+
 Ali Istanbullu - 100905755
 Chinedu Omenkukwu - 100805353
 Andre Dallaire – 100337151
